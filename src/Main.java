@@ -5,9 +5,8 @@ import org.newdawn.slick.Graphics;
 import org.newdawn.slick.SlickException;
 public class Main {
 
-
     public static void main(String[] arguments)
-    {
+    {//
          Game game;
         try {
             game = new Game();
