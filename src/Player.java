@@ -11,6 +11,7 @@ public class Player extends Gameobject {
     public void update()throws SlickException {
             move(12);
             ShotsUpdate();
+			//
     }
 
     public Player(int x, int y,String string  ) throws SlickException {
